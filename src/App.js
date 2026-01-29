@@ -18,8 +18,9 @@ function App() {
         >
           Learn React
         </a>
+        <FirstComponent />  
       </header>
-      <FirstComponent />
+
     </div>
   );
 }
